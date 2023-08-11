@@ -74,6 +74,12 @@
    -> git add nombreDelArchivo / git add .
    -> git status
    -> git commit -m "mensaje"
+   -> git push
+
+   *buenas practicas para los COMMITS
+    - usar verbos que describan la accion: agregar, cambiar, remover
+    - corto y conciso
+    - agregar un prefijo (chore: para realizar tareas / fix: para arreglar un bug)
 */
 
 
