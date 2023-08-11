@@ -1,0 +1,22 @@
+{
+  "name": "javier",
+  "version": "1.0.0",
+  "description": "\"esta es nuestroa primera inicializacion de npm\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "\"Curso",
+    "introductorio",
+    "P5",
+    "full",
+    "stack\""
+  ],
+  "author": "Javier simon",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
