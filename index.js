@@ -80,10 +80,12 @@
     - usar verbos que describan la accion: agregar, cambiar, remover
     - corto y conciso
     - agregar un prefijo (chore: para realizar tareas / fix: para arreglar un bug)
+
+  *GITHUB
+    => proporciona una interfaz web facil de usar que se integra con git
+    ?crear una cuenta en github
 */
 
 
-console.log("Hola por la terminal de VSC");
-console.log("HOla agregue algo");
-console.log("Hola agregue otra cosa a mi codigo");
-console.log("Hola agregue una lista ordenada");
+
+
